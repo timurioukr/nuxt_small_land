@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.flex-center {
+    @apply flex justify-center items-center;
+}
+
+.width_500 {
+    width: 800px;
+}
+
+.pointer {
+    cursor: pointer;
+}
