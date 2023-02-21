@@ -20,9 +20,7 @@
             px-3
             py-2
             border-2 border-transparent
-            rounded
-          "
-        >
+            rounded">
           Start 14 Days Trial
         </a>
         <a
@@ -35,8 +33,7 @@
             border-2 border-indigo-900
             flex-center
             gap-2
-            rounded
-          "
+            rounded"
         >
           <svg style="width: 12px; height: 12px" viewBox="0 0 24 24">
             <path
